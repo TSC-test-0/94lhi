@@ -1,0 +1,6 @@
+ID;productName;productDescription;targetAudience_ID;warehouse_ID;discount_ID
+ee4c6ccd-95cd-4276-b2c7-8bc04a26cb23;Fender Stratocaster;Classic electric guitar with versatile sound;8745164c-c2f2-4da3-8a2c-b163788b3007;f9400303-1151-4a9f-b56a-761368b64a3b;be4dcf55-7f20-4bb3-8f26-8a295e593cc0
+f80e9f1d-eecc-4648-a926-6cff40966c09;Gibson Les Paul;Iconic guitar with a warm, full tone;8949d9cc-3636-45cb-9566-f4f024e4d70b;b95d505b-459b-4321-8763-4e6e7090cc84;08d99237-c576-4465-ae13-141c3ae09f10
+6f6adf3c-076c-442f-8e65-a105018ff422;Yamaha FG800;Affordable acoustic guitar with great sound;d6acf006-e788-47cd-bdcc-e6297371cec5;e9909356-1edb-467a-9ae0-6b32d649d906;2830dbb3-7dd6-4e04-88f1-ac438f60941b
+e5b064a4-73db-4d75-a49d-d86177939045;Martin D-28;High-end acoustic guitar for serious musicians;8949d9cc-3636-45cb-9566-f4f024e4d70b;2616bafb-fda2-4867-a486-c5d15c4cba92;2e4cd588-f4e7-45fd-b439-e22b6544afba
+6d21bde0-d0e2-47df-a8b6-986bc61055d5;Ibanez RG550;Electric guitar with a fast neck and high-output pickups;d6acf006-e788-47cd-bdcc-e6297371cec5;bcf19d58-a95d-4937-b2d0-44d78a3abcd3;5bff99fa-2e44-46d0-854a-1c5a4eba4349
